@@ -33,6 +33,7 @@ Run the script and make sure the Dino game is open in Chrome:
 ## 🏆 Results
 - The AI learns to **jump over obstacles** and **maximize score**.
 - With enough training, it can achieve near-perfect performance.
+- A best model trained is provided as well for testing purposes
 
 
 
